@@ -92,7 +92,7 @@
 - El sonido de un bloqueo, la reacción de un enemigo o la transición entre una esquiva y un contraataque pueden hacer que nuestras acciones resulten mucho más satisfactorias.
 - No se trata de elegir entre espectáculo y profundidad.
 - Lo interesante es conseguir que ambos funcionen juntos.
-- Y sobre todo que después de veinte horas seguimos disfrutando al enfrentarnos a enemigos que ya conocemos, experimentando con nuestras armas y encontrando nuevas formas de combatir...
+- Y sobre todo que después de veinte horas sigamos disfrutando al enfrentarnos a enemigos que ya conocemos, experimentando con nuestras armas y encontrando nuevas formas de combatir...
 - Entonces Phantom Blade Zero habrá conseguido algo más importante que impresionarnos con sus tráileres.
 - **Habrá conseguido que el espectáculo no sea simplemente lo que vemos mientras jugamos, sino lo que ocurre gracias a cómo jugamos.**
 - Y eso es precisamente lo que todavía está por demostrar.
