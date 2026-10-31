@@ -94,27 +94,27 @@ Y creo que esa distinción es fundamental.
 
 ### 3:10–4:05 | Razones para el optimismo
 
-Dicho esto, también hay motivos para tener expectativas positivas.
+Dicho esto, también hay motivos ser positivos.
 
 Que los desarrolladores estén hablando de reconstruir los puzles y modificar la estructura de los escenarios me parece una señal interesante.
 
-Por ejemplo, han explicado que algunas habitaciones independientes del Valle Perdido ahora forman espacios conectados, con diferentes maneras de aproximarse a ellos.
+Por ejemplo, han explicado que algunas habitaciones independientes del Valle Perdido ahora forman espacios conectados, con diferentes maneras de resolverlos.
 
-Eso podría favorecer una exploración menos rígida.
+Eso podría favorecer una exploración mas interesante y flexible.
 
-Y también permitiría solucionar algunas limitaciones del diseño original sin renunciar a su filosofía.
+Y también permitiría solventar algunas limitaciones del diseño original sin tener que  renunciar a su filosofía.
 
 Además, no olvidemos que esta no es la primera vez que se reinterpreta el primer Tomb Raider.
 
 En 2007 tuvimos *Tomb Raider: Anniversary*.
 
-Por tanto, Legacy of Atlantis necesita justificar su existencia ofreciendo algo más que una nueva capa de Unreal Engine 5.
+Por tanto, Legacy of Atlantis necesita justificar su existencia ofreciendo algo más que una nueva capa grafica.
 
-Y eso es precisamente lo que me interesa comprobar.
+Y eso es precisamente lo que me  a mi personalmente me interesa comprobar.
 
-No si los escenarios tienen más vegetación, mejores reflejos o rocas con una cantidad absurda de polígonos.
+No si los escenarios tendran más vegetación, reflejos hiperrealistas o rocas con una cantidad hiperabsurda de polígonos.
 
-Sino si recorrerlos vuelve a ser divertido por sí mismo.
+Sino si recorrerlos vuelve a ser divertida la experiencia en si.
 
 ### 4:05–4:45 | El verdadero desafío
 
