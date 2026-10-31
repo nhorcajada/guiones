@@ -1,26 +1,23 @@
-### 00:00–00:08 | Gancho
+### 00:00–00:10 | Gancho
 
-- Tomb Raider vuelve a sus orígenes después de treinta años.
-- Pero tengo una duda.
-- ¿Volverá también aquello que hacía especial al original?
+- Treinta años después, Tomb Raider vuelve al punto de partida.
+- Pero Legacy of Atlantis no pretende ser una copia exacta del original de 1996.
+- Y eso es precisamente lo interesante.
 
-### 00:08–00:23 | El argumento
+### 00:10–00:25 | La noticia
 
-- Porque Tomb Raider no era solamente Lara Croft, dos pistolas y un dinosaurio con bastante mala leche.
-- Era explorar ruinas, resolver puzles y descubrir por tu cuenta cómo avanzar.
-- Sin que alguien te explicara constantemente lo que tenías que hacer.
+- Crystal Dynamics y Flying Wild Hog están reconstruyendo la primera aventura de Lara Croft.
+- El juego recupera sus escenarios clásicos, pero también plantea una reinterpretación con tecnología y diseño modernos.
+- Y el nuevo teaser del aniversario nos deja ver algunos de esos escenarios y momentos de acción.
 
-### 00:23–00:39 | El conflicto
+### 00:25–00:39 | El análisis
 
-- Legacy of Atlantis promete escenarios reconstruidos, nuevos caminos y puzles rediseñados.
-- Y eso suena interesante.
-- Pero modernizar un clásico no debería significar eliminar todo lo que suponía un desafío.
-- Una cosa es mejorar los controles.
-- Y otra muy distinta, jugar por nosotros.
+- Y aquí está lo que me interesa.
+- No es la primera vez que rehacen esta aventura. Ya tuvimos Tomb Raider: Anniversary en 2007.
+- Por tanto, la pregunta no es solamente cuánto mejor puede verse.
+- Sino qué puede aportar esta nueva versión.
 
-### 00:39–00:52 | Conclusión
+### 00:39–00:45 | Cierre
 
-- Así que tengo curiosidad, pero también ciertas dudas.
-- Porque la magia de Tomb Raider no estaba solamente en cómo se veía.
-- Estaba en cómo se jugaba.
-- ¿Qué recuperarías tú del original?
+- De momento, tenemos un adelanto prometedor, pero no suficiente para valorar el resultado.
+- ¿Qué esperáis vosotros de este regreso de Lara Croft?
