@@ -68,27 +68,27 @@ La pregunta es qué partes deberían cambiar y cuáles convendría conservar.
 
 ### 2:15–3:10 | Modernizar sin perder identidad
 
-Y aquí es donde tengo mis principales dudas.
+Y aquí es donde estan mis mayores dudas.
 
 Los Tomb Raider modernos han mejorado muchísimo aspectos como la fluidez de movimiento, el combate y la presentación cinematográfica.
 
 Pero también han cambiado la manera en que vivimos las aventuras de Lara.
 
-Especialmente en la trilogía que comenzó en 2013, donde la supervivencia, la acción y el desarrollo del personaje tenían un peso enorme.
+Especialmente en la trilogía de  2013, donde la supervivencia, la acción y el desarrollo del personaje tenían un peso enorme.
 
 Y ojo, eso no los convierte en malos juegos.
 
-Simplemente son experiencias diferentes.
+Simplemente y llanamente son experiencias diferentes.
 
-Lo que me gustaría evitar con Legacy of Atlantis es que se limite a trasladar el Tomb Raider original a las convenciones de cualquier aventura de acción moderna.
+Lo que me gustaría evitar con Legacy of Atlantis es que se limite simplemente a trasladar el Tomb Raider original a las convenciones mordernas.
 
-Que cada obstáculo tenga una indicación demasiado evidente.
+Que cada obstáculo tenga una pintura amarilla que te guie
 
-Que cada pocos minutos necesitemos un combate espectacular.
+Que cada cierto tiempo tengamos un combate espectacular.
 
-O que la exploración termine siendo una sucesión de pasillos muy bonitos donde apenas haya nada que descubrir.
+O que la exploración termine siendo una sucesión de pasillos donde como en una atraccion  solo seamos unos turistas disfrutando de las vistas..
 
-Porque una tumba impresionante visualmente no necesariamente es una tumba interesante de explorar.
+Porque una tumba puedes ser impresionante visualmente ...pero no necesariamente signfica que sea una tumba interesante de explorar.
 
 Y creo que esa distinción es fundamental.
 
