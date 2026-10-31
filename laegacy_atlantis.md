@@ -114,7 +114,7 @@ Y eso es precisamente lo que me  a mi personalmente me interesa comprobar.
 
 No si los escenarios tendran más vegetación, reflejos hiperrealistas o rocas con una cantidad hiperabsurda de polígonos.
 
-Sino si recorrerlos vuelve a ser divertida la experiencia en si.
+Sino si recorrerlos vuelve a hacer divertida la experiencia en si.
 
 ### 4:05–4:45 | El verdadero desafío
 
