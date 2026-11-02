@@ -2,215 +2,251 @@
 
 ## PREGUNTA CENTRAL
 
-- ¿EXODUS tiene lo necesario para recuperar lo que hizo especial a Mass Effect o solo está reproduciendo su fórmula?
+- ¿EXODUS tiene lo necesario para recuperar lo que hizo especial a Mass Effect o simplemente está utilizando una fórmula que ya conocemos?
 
 ## TESIS
 
-- La comparación con Mass Effect está justificada por su propuesta y sus creadores, pero su verdadera prueba no está en el combate o la estética, sino en la profundidad de sus decisiones y sus consecuencias.
+- EXODUS tiene los ingredientes para recordar a Mass Effect, pero su verdadero potencial está en conseguir que nuestras decisiones tengan consecuencias y en desarrollar una identidad propia.
 
 ---
 
-## GUION
+## GUION COMPLETO
 
-### 00:00 — UN HEREDERO NO SE FABRICA CON PARECIDOS
+### 00:00 — EL PROBLEMA DE SER EL NUEVO MASS EFFECT
 
-**[B-ROLL: Gameplay de EXODUS. Alternar combate y diálogos con imágenes de Mass Effect. Mostrar la decisión sobre los Kay sin revelar su resolución.]**
+**[B-ROLL: Abrir con las imágenes de los Kay y el diálogo de Suliman. Mostrar la decisión sin revelar su resolución. Cortes rápidos entre combate, compañeros, EXODUS y Mass Effect.]**
 
-- EXODUS tiene muchas cosas que recuerdan a Mass Effect.
+- En EXODUS podemos decidir el futuro de toda una comunidad.
 
-- Combate en tercera persona, compañeros, decisiones morales, una aventura space opera... 
-- y encima...desarrolladores que trabajaron en aquella saga.
+- Podemos conseguirles protección... a cambio de garantizar su obediencia durante generaciones.
 
-- Suena en principio bastante bien no? porque parece tener todos los ingredientes.
+- Y ojo, porque esa decisión resume bastante bien lo que este juego promete.
 
-- Pero aqui esta el pequeño PERO
+**[B-ROLL: Gameplay de combate, habilidades especiales, compañeros y escenarios espaciales.]**
 
-- Tener los ingredientes de Mass Effect no significa que puedes construir un Mass Effect.
+- Un RPG de ciencia ficción con combate en tercera persona, compañeros, decisiones morales, una aventura space opera...
 
-- Archetype Entertainment acaba de publicar unos cuarenta minutos de gameplay de una misión llamada *Liberating the Kay*.
+- Y encima... desarrollado por veteranos de BioWare.
 
-- Y aunque no hemos podido jugarlo , lo mostrado permite empezar a vislumbrar algo bastante más interesante que sus parecidos.
+- Vamos, que las comparaciones con Mass Effect vienen solas.
 
--  y la pregunta es..
-- ¿Estamos ante un RPG con personalidad propia o ante un juego que depende demasiado de nuestra nostalgia?
+- Suena bastante bien, ¿no?
 
-- Porque hay una decisión en esta misión que podría darnos una pista.
+- Pero aquí está el pequeño PERO.
 
-### 00:45 — EL PESO DE UN APELLIDO
+- Tener los ingredientes de Mass Effect no significa que puedas construir otro Mass Effect.
 
-**[B-ROLL: Logos de Archetype y BioWare. Fragmentos de Mass Effect. Volver rápidamente al protagonista de EXODUS.]**
+- Y después de ver los cuarenta minutos de gameplay de *Liberating the Kay*, hay algo que me interesa bastante más que sus parecidos.
+
+- Si nuestras decisiones tendrán consecuencias de verdad.
+
+### 00:40 — LA COMPARACIÓN ES INEVITABLE
+
+**[B-ROLL: Logos de Archetype Entertainment y BioWare. Fragmentos de Mass Effect. Jun Aslan con sus compañeros.]**
 
 - Archetype Entertainment cuenta con veteranos de BioWare que participaron en algunos de sus RPG más reconocidos.
 
-- Es normal, por tanto, que EXODUS genere cierta expectativa.
+- Así que es normal que EXODUS genere cierta expectativa.
 
-- Pero seria interesante  recordar algo.
+- Pero sería interesante recordar algo.
 
 - Mass Effect no se convirtió en una saga memorable simplemente porque pudiéramos disparar, hablar con alienígenas o elegir respuestas en una conversación.
 
-- Su gran virtud fue hacer que todo eso estuviera integrado.
+- Su gran virtud fue conseguir que todo eso estuviera integrado.
 
-- Los compañeros no eran aquellos que te seguian en combate.
+- Los compañeros no eran meros figurantes que nos seguían durante el combate.
 
-- Eran personajes con conflictos,  sus propias  opiniones y relaciones que podían cambiar.
+- Tenían sus propios conflictos, opiniones y relaciones que podían cambiar.
 
-- Y nuestras decisiones, aunque no siempre tuvieran todas las consecuencias prometidas, contribuían a crear la sensación de que aquella era nuestra historia.
+- Y nuestras decisiones, aunque no siempre tuvieran todas las consecuencias prometidas, ayudaban a crear la sensación de que aquella era nuestra historia.
 
-- Y si...Ese es el listón que tiene delante EXODUS.
+- Y sí... ese es el listón que tiene delante EXODUS.
 
-- Y una de las mejores formas de comprobar por dónde pretende llegar es observar la misión que acaban de presentar.
+- Pero lo interesante es que Archetype parece querer recuperar precisamente esa combinación.
 
-### 01:35 — UNA MISIÓN QUE PARECE MÁS SENCILLA DE LO QUE ES
+- Y la misión que acaba de mostrar nos permite ver por dónde van los tiros.
 
-**[B-ROLL: Estación Khonsu, Suliman Tenjin, tropas enemigas, Kay y exploración.]**
+### 01:25 — UNA MISIÓN CON TRAMPA
 
-- En *Liberating the Kay*, nuestro protagonista, Jun Aslan, necesita ciertos componentes que necesitamos realizar viajes interestelares.
+**[B-ROLL: Estación Khonsu, Suliman Tenjin, exploración y presentación de los Kay. Mostrar el objetivo de la misión.]**
+
+- En *Liberating the Kay*, nuestro protagonista, Jun Aslan, necesita ciertos componentes para realizar viajes interestelares.
 
 - Suliman Tenjin, líder de una poderosa dinastía, dispone de lo que necesitamos.
 
-- Naturalmente, no lo da gratis y obviamente tiene una condición.
+- Naturalmente, no lo da gratis.
 
-- Debemos recuperar Khonsu, una plataforma orbital que protege nuestro mundo natal y que ha sido ocupada por las fuerzas de nuestro hermanastro, Gideon.
+- Y obviamente... tiene una condición.
 
-- Hasta aquí, parece una misión bastante convencional.
+- Debemos recuperar Khonsu, una plataforma orbital ocupada por las fuerzas de nuestro hermanastro, Gideon.
+
+- Hasta aquí, nada demasiado sorprendente.
 
 - Alguien tiene algo que necesitamos, nos pide un favor y nosotros vamos a resolverlo.
 
 - A ser posible, utilizando una cantidad preocupante de munición.
 
-- Pero Khonsu también es el hogar de los Kay, una especie de ranas inteligentes que llevan generaciones viviendo allí.
+**[B-ROLL: Mostrar a los Kay y su entorno dentro de Khonsu.]**
 
-- Y eso introduce un elemento realmente importante.
+- Pero resulta que Khonsu también es el hogar de los Kay, una especie de ranas inteligentes que llevan generaciones viviendo allí.
 
-- Nuestra misión no afecta únicamente a quien nos contrata o a los enemigos que derrotamos.
+- Y aquí es donde la misión empieza a complicarse.
 
-- También afecta a una comunidad que tendrá que vivir con la consecuencia acciones.
+- Porque no estamos decidiendo únicamente cómo cumplir nuestro objetivo.
 
-- Ahí es donde la propuesta empieza a resultar más interesante.
+- También estamos interviniendo en el futuro de una comunidad.
 
-### 02:30 — EL COMBATE ES LA PARTE FÁCIL DE ENSEÑAR
+- Y el problema es que nuestro supuesto aliado tiene sus propios intereses.
 
-**[B-ROLL: Combates, habilidades del guantelete, Petrify, enfrentamientos en gravedad cero y participación de Elise y Suliman.]**
+### 02:10 — ¿SALVAR A LOS KAY O CONDENARLOS A OBEDECER?
 
-- Naturalmente, también hemos visto combates.
+**[B-ROLL: Decisiones de la misión. Enemigo herido, tarjeta de acceso y opciones Paladín/Inmortal. Mostrar los textos de las elecciones.]**
 
-- EXODUS apuesta por la acción en tercera persona, con disparos, habilidades especiales y compañeros que participan en los enfrentamientos.
+- Durante la misión podemos tomar varias decisiones.
 
-- La demostración incluye situaciones de gravedad cero y habilidades como Petrify, que permiten interactuar con determinados obstáculos.
+- Por ejemplo, sacrificar un botiquín para ayudar a un enemigo herido.
 
-- Y visualmente hay elementos que recuerdan bastante a los Mass Effect modernos.
+- O comprar una tarjeta de acceso en lugar de conseguirla por la fuerza.
+
+- El juego relaciona estas elecciones con dos orientaciones: Paladín, vinculada a la virtud, e Inmortal, asociada a la ambición.
+
+- Y aquí surge mi primera duda.
+
+- Si sabemos de antemano cuál es la opción virtuosa y cuál es la ambiciosa...
+
+- ¿Estamos tomando decisiones o simplemente escogiendo qué tipo de personaje queremos interpretar?
+
+- Aunque cuidado, porque una elección aparentemente sencilla no tiene por qué ser superficial.
+
+- El problema no es que el juego nos diga qué estamos eligiendo.
+
+- El problema sería que, después de elegir, apenas cambiara nada.
+
+**[B-ROLL: Regresar al diálogo de Suliman con los Kay. Reducir música, destacar la conversación y mostrar las balizas de Khonsu si aparecen.]**
+
+- Y precisamente aquí llega la parte más interesante.
+
+- Suliman está dispuesto a garantizar la protección de los Kay.
+
+- Pero a cambio quiere modificar las balizas de Khonsu para asegurar su obediencia durante generaciones.
+
+- Es decir...
+
+- Podemos garantizar su seguridad, pero comprometiendo su libertad.
+
+- Y eso cambia bastante las cosas.
+
+- Porque una solución práctica no tiene por qué ser una solución justa.
+
+- Y una decisión aparentemente correcta podría tener consecuencias que todavía no conocemos.
+
+- Archetype asegura que nuestras elecciones tendrán consecuencias duraderas.
+
+- Pero todavía no sabemos si esta decisión cambiará realmente el futuro de los Kay, nuestra relación con otros personajes o si sus efectos estarán limitados a determinados diálogos.
+
+- Y esa es la diferencia entre ofrecer una decisión interesante y conseguir que tenga verdadero peso en un RPG.
+
+### 03:30 — ¿Y CUANDO TOCA DISPARAR?
+
+**[B-ROLL: Cambio de ritmo. Secuencias de combate, habilidades, enfrentamientos en gravedad cero y participación de compañeros. Priorizar escenas que correspondan a lo que se menciona.]**
+
+- Pero un RPG no vive únicamente de sus conversaciones.
+
+- También tiene que funcionar cuando toca sacar el arma.
+
+- Y en EXODUS hemos visto disparos en tercera persona, habilidades especiales, compañeros y combates en gravedad cero.
+
+- También aparecen habilidades como Petrify, que permiten interactuar con determinados elementos del escenario.
+
+- Y visualmente hay bastante que recuerda a los Mass Effect modernos.
 
 - Pero aquí conviene separar dos cosas.
 
-- Que un combate resulte espectacular no significa necesariamente que sea profundo.
+- Primero... que un combate resulte espectacular no significa que sea profundo.
 
-- Lo importante será comprobar si las habilidades ofrecen alternativas tácticas, si los compañeros tienen utilidad real y si los enemigos nos obligan a cambiar nuestra manera de jugar.
+- Lo importante será comprobar si las habilidades permiten desarrollar estrategias diferentes.
+
+- Si nuestros compañeros tienen utilidad real y no son meros figurantes.
+
+- Y si los enemigos nos obligan a cambiar nuestra manera de jugar.
 
 - Por ahora podemos observar las herramientas que propone el juego.
 
-- Lo que todavía no podemos valorar es cómo funcionan durante treinta o cuarenta horas de aventura.
+- Pero no sabemos cómo funcionarán después de muchas horas de aventura.
 
-- Y tampoco sería justo concluir que el combate es superficial basándonos en una demostración promocional.
+- Y tampoco sería justo concluir que el combate es superficial basándonos únicamente en una demostración promocional.
 
-- De momento, simplemente falta esa información.
+- Porque no hemos jugado a EXODUS.
 
-- Pero hay algo que resulta mucho más difícil de enseñar que un tiroteo espectacular.
+- De momento, simplemente no tenemos esa información.
 
-- Las consecuencias de nuestras decisiones.
+- Aunque hay algo que podría terminar siendo mucho más importante que cualquiera de sus armas.
 
-### 03:25 — LA DECISIÓN QUE PODRÍA DEFINIR EXODUS
+### 04:25 — LO QUE MASS EFFECT NO TENÍA
 
-**[B-ROLL: Elecciones Paladín/Inmortal. Enemigo herido. Tarjeta de acceso. Suliman y los Kay. Sobreimpresiones: VIRTUD / AMBICIÓN.]**
-
-- Durante la misión aparecen varias elecciones.
-
-- Podemos sacrificar un botiquín para ayudar a un enemigo herido.
-
-- También podemos comprar una tarjeta de acceso o conseguirla utilizando la fuerza.
-
-- Son decisiones que el juego relaciona con dos orientaciones: Paladín, asociada a la virtud, e Inmortal, vinculada a la ambición.
-
-- Y aquí surge mi primera preocupación.
-
-- Si sabemos de antemano cuál es la opción virtuosa y cuál es la ambiciosa, ¿estamos realmente reflexionando sobre nuestras decisiones o simplemente alimentando el tipo de personaje que queremos construir?
-
-- Aunque tampoco hay que confundir claridad moral con falta de profundidad.
-
-- Una decisión puede ser sencilla de entender y tener consecuencias muy interesantes.
-
-- De hecho, el mejor ejemplo aparece al final de la misión.
-
-- Suliman quiere garantizar la protección de los Kay, pero a cambio pretende modificar las balizas de Khonsu para asegurar su obediencia durante generaciones.
-
-- Podemos aceptar esa condición o defender su protección sin someterlos a ese control.
-
-- Y esta situación plantea algo bastante más interesante que elegir entre ayudar o disparar.
-
-- Porque aceptar una solución aparentemente práctica podría comprometer la libertad de toda una comunidad.
-
-- Ahora bien, que el planteamiento resulte interesante no significa que su ejecución vaya a estar a la altura.
-
-- Archetype afirma que nuestras decisiones tendrán consecuencias duraderas.
-
-- Pero todavía necesitamos comprobar cuáles serán y hasta dónde llegarán.
-
-- ¿Cambiará el futuro de los Kay?
-
-- ¿Influirá en nuestras relaciones con otros personajes?
-
-- ¿O quedará principalmente reflejado en unas cuantas conversaciones?
-
-- Esa diferencia es fundamental.
-
-### 04:45 — SU MAYOR OPORTUNIDAD ESTÁ FUERA DE MASS EFFECT
-
-**[B-ROLL: Viajes interestelares, naves, escenarios espaciales. Representar el paso del tiempo con transiciones entre planetas y relojes.]**
-
-- Y aquí aparece algo que podría permitir a EXODUS dejar de vivir bajo la sombra de Mass Effect.
+**[B-ROLL: Nave espacial, viajes interestelares, escenas de planetas y personajes. Introducir una transición visual que represente el paso de los años.]**
 
 - La dilatación temporal.
 
-- En su universo, los viajes interestelares pueden provocar que el tiempo transcurra de forma muy diferente para el protagonista y para quienes permanecen en sus planetas.
+- Uno de los conceptos centrales de EXODUS es que los viajes interestelares pueden provocar que el tiempo pase de manera muy diferente para quienes viajan y para quienes se quedan atrás.
 
-- Una misión que para nosotros dura relativamente poco podría representar años para las personas que dejamos atrás.
+- Una misión que para nosotros dura relativamente poco podría representar años para otras personas.
 
-- Y eso abre posibilidades narrativas bastante interesantes.
+- Y pensad en lo que eso significa para un RPG basado en decisiones.
 
-- No hablamos solamente de decidir quién vive o quién muere.
+- No hablamos solamente de elegir quién vive o quién muere.
 
-- También podríamos tener que convivir con un mundo que cambia mientras estamos ausentes.
+- También podríamos encontrarnos con las consecuencias de nuestras acciones décadas después.
 
-- Con relaciones que envejecen, conflictos que evolucionan y consecuencias que aparecen mucho después de nuestras decisiones.
+**[B-ROLL: Personajes, escenarios y paso del tiempo. Evitar presentar montajes hipotéticos como escenas confirmadas del juego.]**
 
-- Al menos, ese es el potencial del concepto.
+- Con personajes que han envejecido.
 
-- Porque todavía no sabemos hasta qué punto se trasladará a las mecánicas o cuánto dependerá de acontecimientos escritos de antemano.
+- Relaciones que han cambiado.
 
-- Pero si Archetype consigue integrarlo de manera convincente, podría encontrar una identidad propia.
+- O conflictos que han evolucionado mientras estábamos ausentes.
 
-- Y eso sería mucho más valioso que limitarse a reproducir una fórmula conocida.
+- Y aquí es donde EXODUS podría encontrar algo que lo diferencie de Mass Effect.
 
-### 05:35 — CONCLUSIÓN: EL PROBLEMA DE SER EL NUEVO MASS EFFECT
+- Porque sus decisiones no tendrían por qué afectar solamente al momento en el que las tomamos.
 
-**[B-ROLL: Montaje de EXODUS. Compañeros, Kay, combates y nave espacial. Cerrar con el protagonista.]**
+- También podrían transformar un mundo al que regresamos mucho tiempo después.
 
-- Después de lo mostrado, creo que hay razones para prestar atención a EXODUS.
+- Aunque, nuevamente, estamos hablando de posibilidades.
 
-- Tiene una propuesta reconocible, conflictos narrativos interesantes y un concepto de ciencia ficción con bastante potencial.
+- Todavía no sabemos cuánto influirá realmente la dilatación temporal en nuestras decisiones o si sus consecuencias estarán principalmente ligadas a acontecimientos escritos de antemano.
 
-- Pero todavía no hemos visto suficiente para afirmar que será el heredero de Mass Effect.
+- Pero si consigue integrarla de forma convincente...
 
-- Y quizá tampoco deberíamos exigirle que lo sea.
+- Podríamos estar ante algo más interesante que una simple recuperación de la fórmula de BioWare.
 
-- Porque la mejor manera de continuar el legado de aquella saga no es copiar sus características.
+### 05:20 — CONCLUSIÓN: NO NECESITAMOS OTRO MASS EFFECT
 
-- Es conseguir que volvamos a preocuparnos por nuestros compañeros, que dudemos ante una decisión y que sus consecuencias nos acompañen.
+**[B-ROLL: Recuperar las imágenes iniciales de los Kay. Después, montaje de compañeros, combate, Khonsu, nave y protagonista. Cierre con el logo de EXODUS.]**
 
-- EXODUS ya ha demostrado que conoce los ingredientes.
+- Y volvemos a la decisión con la que empezábamos.
 
-- Ahora falta descubrir si sabe qué hacer con ellos.
+- ¿De qué sirve elegir el futuro de los Kay si después apenas cambia nada?
 
-- ¿Creéis que Archetype debería apostar por recuperar la fórmula de Mass Effect o intentar alejarse de ella?
+- Ahí es donde EXODUS tendrá que demostrar lo que vale.
+
+- Porque Archetype tiene los ingredientes de un RPG que recuerda a Mass Effect.
+
+- Compañeros, combates, decisiones y un universo con bastante potencial.
+
+- Pero también tiene la oportunidad de construir algo propio.
+
+- Especialmente si consigue que la dilatación temporal convierta nuestras decisiones en consecuencias que veremos años después.
+
+- Ojo, que eso todavía está por demostrar.
+
+- Pero si lo consigue, quizá dejemos de preguntarnos si EXODUS es el nuevo Mass Effect.
+
+- Y empecemos a hablar de EXODUS por sus propios méritos.
+
+- Y vosotros, ¿qué esperáis de EXODUS?
+
+- ¿Un sucesor de Mass Effect o algo que consiga ir por su propio camino?
 
 - Os leo en los comentarios.
 
@@ -218,4 +254,4 @@
 
 ## CONCLUSIÓN DEL VÍDEO
 
-- **EXODUS no tiene que demostrar que puede ser otro Mass Effect. Tiene que demostrar que puede ser un RPG memorable por sus propios méritos.**
+- EXODUS no tiene que convertirse en otro Mass Effect para recoger parte de su legado. Tiene que demostrar que sus personajes, decisiones y consecuencias son capaces de sostener un RPG con personalidad propia.
