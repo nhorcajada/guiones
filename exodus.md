@@ -42,33 +42,33 @@
 
 - Archetype Entertainment cuenta con veteranos de BioWare que participaron en algunos de sus RPG más reconocidos.
 
-- Es normal, por tanto, que EXODUS genere ciertas expectativas.
+- Es normal, por tanto, que EXODUS genere cierta expectativa.
 
-- Pero conviene recordar algo.
+- Pero seria interesante  recordar algo.
 
 - Mass Effect no se convirtió en una saga memorable simplemente porque pudiéramos disparar, hablar con alienígenas o elegir respuestas en una conversación.
 
-- Su gran virtud fue hacer que todo eso formara parte de una misma experiencia.
+- Su gran virtud fue hacer que todo eso estuviera integrado.
 
-- Los compañeros no eran únicamente acompañantes de combate.
+- Los compañeros no eran aquellos que te seguian en combate.
 
-- Eran personajes con conflictos, opiniones y relaciones que podían evolucionar.
+- Eran personajes con conflictos,  sus propias  opiniones y relaciones que podían cambiar.
 
 - Y nuestras decisiones, aunque no siempre tuvieran todas las consecuencias prometidas, contribuían a crear la sensación de que aquella era nuestra historia.
 
-- Ese es el listón que tiene delante EXODUS.
+- Y si...Ese es el listón que tiene delante EXODUS.
 
-- Y una de las mejores formas de comprobar por dónde pretende llegar es observar la misión que acaba de presentar.
+- Y una de las mejores formas de comprobar por dónde pretende llegar es observar la misión que acaban de presentar.
 
 ### 01:35 — UNA MISIÓN QUE PARECE MÁS SENCILLA DE LO QUE ES
 
 **[B-ROLL: Estación Khonsu, Suliman Tenjin, tropas enemigas, Kay y exploración.]**
 
-- En *Liberating the Kay*, nuestro protagonista, Jun Aslan, necesita ciertos componentes para que su nave pueda realizar viajes interestelares.
+- En *Liberating the Kay*, nuestro protagonista, Jun Aslan, necesita ciertos componentes que necesitamos realizar viajes interestelares.
 
 - Suliman Tenjin, líder de una poderosa dinastía, dispone de lo que necesitamos.
 
-- Naturalmente, tiene una condición.
+- Naturalmente, no lo da gratis y obviamente tiene una condición.
 
 - Debemos recuperar Khonsu, una plataforma orbital que protege nuestro mundo natal y que ha sido ocupada por las fuerzas de nuestro hermanastro, Gideon.
 
@@ -80,11 +80,11 @@
 
 - Pero Khonsu también es el hogar de los Kay, una especie de ranas inteligentes que llevan generaciones viviendo allí.
 
-- Y eso introduce un elemento importante.
+- Y eso introduce un elemento realmente importante.
 
 - Nuestra misión no afecta únicamente a quien nos contrata o a los enemigos que derrotamos.
 
-- También afecta a una comunidad que tendrá que convivir con el resultado de nuestras acciones.
+- También afecta a una comunidad que tendrá que vivir con la consecuencia acciones.
 
 - Ahí es donde la propuesta empieza a resultar más interesante.
 
